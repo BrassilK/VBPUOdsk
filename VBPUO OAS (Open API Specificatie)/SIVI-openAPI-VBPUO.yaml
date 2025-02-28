@@ -8,7 +8,7 @@ info:
     For support, change requests or other issues, please refer to GitHub.\n\n
     We agreed upon:\n
     - A response by the server with http code 202 indicates the client that the request is processed asynchronously, expecting the client to receive the processing result on their /feedback endpoint
-    - Parties have to agree whether to support an asynchronous feedback message.\n
+    - Parties have to agree whether to support an asynchronous feedback message. dd\n
     "
   version: 1.0.9
   contact:
